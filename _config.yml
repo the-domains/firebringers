@@ -1,0 +1,23 @@
+name: Firebringers
+favicon: null
+layout_spectrum: 0.3734373131301254
+typography_spectrum: 0.22540284041315317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1233138763345778
+  lightness: 0.09901761310175061
+  saturation: 0.6253449823707342
+  rhythmicContrast: 0.5896808698307723
+purpose: []
